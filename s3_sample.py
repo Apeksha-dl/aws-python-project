@@ -16,6 +16,8 @@
 import boto3
 import uuid
 
+#aws python project
+
 # boto3 offers two different styles of API - Resource API (high-level) and
 # Client API (low-level). Client API maps directly to the underlying RPC-style
 # service operations (put_object, delete_object, etc.). Resource API provides
